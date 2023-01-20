@@ -17,7 +17,7 @@ body {
 	color: #8ba9c5;
 }
 
-.container {
+.box-container {
 	background-color: #34495e;
 	border-radius: 10px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
